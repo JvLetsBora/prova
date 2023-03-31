@@ -26,6 +26,30 @@ jogos = [
     "plataforma":"PS5", 
     "preco":350, 
     "quantidade": 10
+    },
+        {
+    "name":"HOGWARTS LEGACY",
+    "plataforma":"PC", 
+    "preco":219, 
+    "quantidade": 7
+    },
+    {
+    "name":"WILD HEARTS",
+    "plataforma":"XBox Series", 
+    "preco":350, 
+    "quantidade": 7
+    },
+    {
+    "name":"RESIDENT EVIL 4",
+    "plataforma":"PS5", 
+    "preco":289, 
+    "quantidade": 10
+    },
+    {
+    "name":"THE LEGEND OF ZELDA: TEARS OF THE KINGDOM",
+    "plataforma":"Switch", 
+    "preco":350, 
+    "quantidade": 10
     }
 ]
 
